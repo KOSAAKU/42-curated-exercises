@@ -10,5 +10,3 @@ This repository focuses on learning value rather than dumping full solutions.
 - Links to docs and common pitfalls
 
 > ⚖️ **Honor Code**: Use this repository to learn. Do not plagiarize private subjects or share restricted material.
-
-## Structure

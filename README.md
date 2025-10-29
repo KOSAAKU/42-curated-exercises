@@ -1,0 +1,1 @@
+# 42-curated-exercises
